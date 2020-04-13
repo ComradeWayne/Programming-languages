@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1Lab.cpp
+D:\1Лаба\ConsoleApplication1Lab\ConsoleApplication1Lab\ConsoleApplication1Lab.cpp(48,4): warning C4551: в вызове функции отсутствует список аргументов
+  ConsoleApplication1Lab.vcxproj -> D:\1Лаба\ConsoleApplication1Lab\Debug\ConsoleApplication1Lab.exe
