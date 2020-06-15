@@ -1,0 +1,4 @@
+Ivanov Ivan 20 +
+Nikolaeva Anna 23 +
+Petrov Petr 21 -
+Fokina Rimma 19 -

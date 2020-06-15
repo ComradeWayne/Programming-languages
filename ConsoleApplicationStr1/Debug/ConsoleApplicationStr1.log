@@ -1,0 +1,4 @@
+﻿  ConsoleApplicationStr1.cpp
+C:\Users\MacSquizzy\Documents\структуры\ConsoleApplicationStr1\ConsoleApplicationStr1\ConsoleApplicationStr1.cpp(39,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\MacSquizzy\Documents\структуры\ConsoleApplicationStr1\ConsoleApplicationStr1\ConsoleApplicationStr1.cpp(43,4): warning C4551: в вызове функции отсутствует список аргументов
+  ConsoleApplicationStr1.vcxproj -> C:\Users\MacSquizzy\Documents\структуры\ConsoleApplicationStr1\Debug\ConsoleApplicationStr1.exe
