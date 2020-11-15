@@ -1,0 +1,5 @@
+﻿  Shablon class.cpp
+C:\Users\MacSquizzy\Documents\яп\Shablon class\Shablon class\Shablon class.cpp(40,20): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\MacSquizzy\Documents\яп\Shablon class\Shablon class\Shablon class.cpp(246,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\MacSquizzy\Documents\яп\Shablon class\Shablon class\Shablon class.cpp(119): warning C4717: operator>>: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Shablon class.vcxproj -> C:\Users\MacSquizzy\Documents\яп\Shablon class\Debug\Shablon class.exe
